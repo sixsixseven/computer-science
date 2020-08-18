@@ -125,7 +125,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-~~[Python for Everybody](https://www.py4e.com/)~~ | 34 weeks | 3 hours/week | none | [chat](https://discord.gg/syA242Z)
+~~[Python for Everybody](https://www.py4e.com/)~~ | ~~34 weeks~~ | ~~3 hours/week~~ | ~~none~~ | ~~[chat](https://discord.gg/syA242Z)~~
 
 ### Introduction to Computer Science
 
@@ -139,7 +139,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+~~[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))~~ | ~~9 weeks~~ | ~~15 hours/week~~ | ~~[high school algebra](https://www.khanacademy.org/math/algebra-home)~~ | ~~[chat](https://discord.gg/jvchSm9)~~
 
 ### Introduction to CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
